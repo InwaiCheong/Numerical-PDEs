@@ -1,2 +1,2 @@
 # Numerical-PDEs
-Assignments for Numerical PDEs APMA 4300 @ Columbia University
+Assignments for Numerical PDEs APMA 4301 @ Columbia University
